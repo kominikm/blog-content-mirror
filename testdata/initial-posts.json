@@ -1,0 +1,17 @@
+[
+  {
+    "id": 15,
+    "date": "2019-09-20T15:16:26",
+    "slug": "cache-demo",
+    "title": {"rendered": "Cache &amp; Demo"},
+    "content": {
+      "rendered": "\n<p class=\"wp-block-paragraph\">Cached body<\/p>\n\n\n<p><img class=\"aligncenter\" src=\"http://media.example.com/wp-content/uploads/2019/09/001.jpg\" alt=\"\" \/><\/p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Excerpt &amp; summary<\/p>\n",
+      "protected": false
+    },
+    "jetpack_featured_media_url": "http://media.example.com/wp-content/uploads/2019/09/001.jpg"
+  }
+]
